@@ -20,10 +20,10 @@ var DSP = {
   MIX:            2,
 
 // Waveforms
-//   SINE:           1,
-//   TRIANGLE:       2,
-//   SAW:            3,
-//   SQUARE:         4,
+  SINE:           1,
+  TRIANGLE:       2,
+  SAW:            3,
+  SQUARE:         4,
 
   // Filters
   LOWPASS:        0,
