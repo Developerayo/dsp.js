@@ -19,11 +19,11 @@ var DSP = {
   RIGHT:          1,
   MIX:            2,
 
-  // Waveforms
-  SINE:           1,
-  TRIANGLE:       2,
-  SAW:            3,
-  SQUARE:         4,
+// Waveforms
+//   SINE:           1,
+//   TRIANGLE:       2,
+//   SAW:            3,
+//   SQUARE:         4,
 
   // Filters
   LOWPASS:        0,
