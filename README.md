@@ -30,6 +30,7 @@ transforms, Delays, Reverb.
   * Saw wave
   * Triangle wave
   * Usage:
+  
     ```js
     var osc = new Oscillator(SINEWAVE, 440, 1, 2048, 22050);
     osc.generate();
