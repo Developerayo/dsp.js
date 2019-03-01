@@ -60,9 +60,3 @@ transforms, Delays, Reverb.
     delay.process(signal);  
     ```
 
-* `Reverb(maxDelayInSamplesSize, delayInSamples, masterVolume, mixVolume, delayVolume, dampFrequency)`: Reverb
-  * Usage:
-    ```js
-    var reverb = Reverb(20000, 6500, 0.8, 0.5, 0.9, 4500);
-    reverb.process(signal);
-    ```
